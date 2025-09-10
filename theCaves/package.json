@@ -1,0 +1,19 @@
+{
+  "name": "thecaves",
+  "version": "1.0.0",
+  "description": "Backend of SnowWhite app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penguzilla/SnowWhite.git"
+  },
+  "author": "Mandy Botha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Penguzilla/SnowWhite/issues"
+  },
+  "homepage": "https://github.com/Penguzilla/SnowWhite#readme"
+}
